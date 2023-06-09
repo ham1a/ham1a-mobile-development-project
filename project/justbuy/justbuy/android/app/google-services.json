@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330401918929",
+    "project_id": "justbuy-15601",
+    "storage_bucket": "justbuy-15601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330401918929:android:ab70a2448e82e23a24baf0",
+        "android_client_info": {
+          "package_name": "com.example.justbuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330401918929-q2d2mbkfcndf21s27q6i5pbufha0ptqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADo6pLeLn3lEvODfgy5_lIJhRmXCCwNC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330401918929-q2d2mbkfcndf21s27q6i5pbufha0ptqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
